@@ -1,69 +1,69 @@
 {
-"name": "Moodle Mobile",
+"name": "Mundo Cursos",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Juan Leyva",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Main developer",
-    "company": "CV&A Consulting"
+    "company": "Eleven"
 },
 {
-    "fullname": "Josep Maria Gifreu",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Icons and css fixes",
-    "company": "CV&A Consulting"
+    "company": "Eleven"
 },
 {
-    "fullname": "Martin Dougiamas",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Strategic direction",
-    "company": "Moodle Pty Ltd."
+    "company": "Eleven."
 },
 {
-    "fullname": "Jerome Mouneryac",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Developer and Moodle HQ technical contact",
-    "company": "Moodle Pty Ltd."
+    "company": "Eleven."
 },
 {
-    "fullname": "Barbara Ramiro",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Designer",
-    "company": "Moodle Pty Ltd."
+    "company": "Eleven."
 },
 {
-    "fullname": "Adrian Bedford",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (project manager)",
-    "company": "City & Guilds Kineo"
+    "company": "Eleven"
 },
 {
-    "fullname": "David Shaw",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (solutions architect)",
-    "company": "City & Guilds Kineo"
+    "company": "Eleven"
 },
 {
-    "fullname": "Dominic Orme",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (developer)",
-    "company": "City & Guilds Kineo"
+    "company": "Eleven"
 },
 {
-    "fullname": "Tony Blundell",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (developer)",
-    "company": "City & Guilds Kineo"
+    "company": "Eleven"
 },
 {
-    "fullname": "Michael Palmer",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (designer)",
-    "company": "City & Guilds Kineo"
+    "company": "Eleven"
 },
 {
-    "fullname": "Daniel Palou",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (developer)",
-    "company": "CV&A Consulting"
+    "company": "Eleven"
 },
 {
-    "fullname": "Daniel Ramírez",
+    "fullname": "Leonardo de Paula da Silva",
     "contribution": "Contributor (developer Window version)",
-    "company": "CV&A Consulting"
+    "company": "Eleven"
 }
 ],
 "thirdpartylibs": [
